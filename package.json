@@ -1,0 +1,13 @@
+{
+  "name": "big-global-types-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/big.js": "^4.0.5",
+    "typescript": "^3.5.1"
+  },
+  "dependencies": {
+    "big.js": "^5.2.2"
+  }
+}
